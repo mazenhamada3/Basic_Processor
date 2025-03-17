@@ -1,0 +1,147 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/zeyad/Desktop/Workspace/Code/VHDL/mazen_thingy/simulation/qsim
+Eenhanced_processor
+Z0 w1736330381
+Z1 DPx11 fiftyfivenm 21 fiftyfivenm_atom_pack 0 22 7d5Xo;QBOkc31OfQTzSXV0
+Z2 DPx11 fiftyfivenm 22 fiftyfivenm_components 0 22 IfY7Mh2WPBc;@7U@3<I^[0
+Z3 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z4 DPx6 altera 11 dffeas_pack 0 22 :S1C`o89Vbe5bV6`:6CaB3
+Z5 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 DPx6 altera 28 altera_primitives_components 0 22 z?[99Tn<@QGNik3V1c6ah1
+Z9 dD:/Engineering/AASTMT/Engineering s(5)/Computer Architecture/resourses/mazen_thingy-main/simulation/qsim
+Z10 8Enhanced_Processor.vho
+Z11 FEnhanced_Processor.vho
+l0
+L91
+V6B^A7G<:`iGV2mb=AOT6l2
+!s100 GoUO79bB_He;9?X;F7biW2
+Z12 OV;C;10.5b;63
+32
+Z13 !s110 1736330383
+!i10b 1
+Z14 !s108 1736330383.000000
+Z15 !s90 -work|work|Enhanced_Processor.vho|
+Z16 !s107 Enhanced_Processor.vho|
+!i113 1
+Z17 o-work work
+Z18 tExplicit 1 CvgOpt 0
+Astructure
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 18 enhanced_processor 0 22 6B^A7G<:`iGV2mb=AOT6l2
+l334
+L137
+VMDk;oVUXLfV]STaOK4OAk0
+!s100 k`ZEQ_5i[`T8JkcGn`[ec0
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Eenhanced_processor_vhd_vec_tst
+Z19 w1736330380
+R6
+R7
+R9
+Z20 8Waveform3.vwf.vht
+Z21 FWaveform3.vwf.vht
+l0
+L32
+Vz4a<`NSB`ZRX<RaSRm;ih0
+!s100 eP6@g9PAFEKYVT^JmeVCU1
+R12
+32
+Z22 !s110 1736330384
+!i10b 1
+R14
+Z23 !s90 -work|work|Waveform3.vwf.vht|
+Z24 !s107 Waveform3.vwf.vht|
+!i113 1
+R17
+R18
+Aenhanced_processor_arch
+R6
+R7
+Z25 DEx4 work 30 enhanced_processor_vhd_vec_tst 0 22 z4a<`NSB`ZRX<RaSRm;ih0
+l49
+L34
+VDTRAi6E>hkah?3Ic_O1?k1
+!s100 =DGRjRDUM0QhEPG5JHW3E1
+R12
+32
+R22
+!i10b 1
+R14
+R23
+R24
+!i113 1
+R17
+R18
+Ehard_block
+R0
+R3
+R1
+R5
+R6
+R7
+R2
+R9
+R10
+R11
+l0
+L35
+Vhj[i;a0dD85B`o1JPT^cg2
+!s100 3A]XnMhF<;9mKUe5mn3aM1
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
+Astructure
+R3
+R1
+R5
+R6
+R7
+R2
+DEx4 work 10 hard_block 0 22 hj[i;a0dD85B`o1JPT^cg2
+l76
+L54
+Va5ClDYec`9chO`Ne0M1NL2
+!s100 >:Wi^nX[YiN=@>>JC6K_83
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R17
+R18
