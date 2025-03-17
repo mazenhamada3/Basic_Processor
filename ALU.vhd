@@ -11,6 +11,7 @@ entity ALU is
         ALU_OUT  : out std_logic_vector(15 downto 0)
     );
 end ALU;
+--admk
 
 architecture Behavioral_ALU of ALU is
 begin
